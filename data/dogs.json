@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Pjuske",
+        "type": "Boxer",
+        "age": 4,
+        "color": "Brun"
+    },
+    {
+        "name": "Fido",
+        "type": "Golden Retriver",
+        "age": 1,
+        "color": "Gul"
+    },
+    {
+        "name": "Michael",
+        "type": "Border Collie",
+        "age": 8,
+        "color": "Sort"
+    }
+]

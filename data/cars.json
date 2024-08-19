@@ -1,0 +1,20 @@
+[
+    {
+        "brand": "Toyota",
+        "model": "Yaris",
+        "year": 1995,
+        "color": "yellow"
+    },
+    {
+        "brand": "Skoda",
+        "model": "Octavia",
+        "year": 2019,
+        "color": "Silver Grey"
+    },
+    {
+        "brand": "Fiat",
+        "model": "Panda",
+        "year": 2008,
+        "color": "White"
+    }
+]
